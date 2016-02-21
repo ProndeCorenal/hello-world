@@ -1,2 +1,7 @@
 # hello-world
-First Repository
+
+Hi !
+
+The Original Work Stuff is here.
+
+Thanks..
